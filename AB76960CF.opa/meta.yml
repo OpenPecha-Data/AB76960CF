@@ -1,0 +1,20 @@
+id: AB76960CF
+title: Toh_312-Entering_the_City_of_Vaisali-v2
+type: translation
+pechas:
+- I6AB6C8B5
+- I31B4C224
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-072-012
+  eft-text-version: 1.1.10 2020
+  title: Toh_312-Entering_the_City_of_Vaisali-v2
+alignment_to_base:
+  I6AB6C8B5/5303: '1074'
+  I31B4C224/CC73: '1074'
